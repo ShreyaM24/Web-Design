@@ -1,3 +1,10 @@
-a.space{
-  padding: 2px
- }
+// this is a single line comment
+
+/* multiple
+ line comment
+ */
+ 
+// we will choose body background color //
+body{
+  background-color: #FF0000
+  }
