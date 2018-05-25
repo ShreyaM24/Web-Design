@@ -6,10 +6,10 @@
  
 // we will choose body background color //
 body{
-  background-color: #ff9010
+  background-color: #cccccc;
   }
 p  {
-    font-family: times new roman;
+    font-family: bookman;
     font-size: 15px;
-    color: #00ff00
+    color: #2756a3;
 }
