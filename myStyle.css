@@ -6,14 +6,27 @@
  
 
 body{
-  background-color: #b2fff0;
-  }
-p,ol,ul  {
-    font-family: Courier ;
-    font-size: 16px;
-    color: #2756a3;
-}
-h1,h2,h3,h4,h5,h6  {
-    font-family: Courier ;
-    color: #2756a3;
-}
+					background-color: #ffb6c1;
+				}
+				h1,h2,h3,h4,h5,h6{
+					font-family: Georgia;
+					text-align: center;
+					color: #055b32;
+				}
+				p, ul, ol{
+					font-family: Verdana;
+					color: #02301a;
+				}
+				a {
+    					text-decoration: none;
+				}
+    ul,ol{
+					list-style-position: inside;
+					text-align: center;
+				}
+				ul.a {
+   					list-style-type: none;
+    					margin: 0;
+    					padding: 0;
+					   text-align: left;
+				}
